@@ -1,0 +1,6 @@
+https://github.com/adama-mbow/git-begins..git
+ git remote add origin https://github.com/adama-mbow/git-begins..git
+git push -u origin main
+ git remote add origin https://github.com/adama-mbow/git-begins..git
+git branch -M main
+git push -u origin main
